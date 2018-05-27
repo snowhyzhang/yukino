@@ -2,6 +2,9 @@
 
 集合了使用Python的机器学习相关的代码和数据。
 
+## captcha_recoginition
+基于卷积网络的验证码识别
+
 ## nlp
 自然语言处理相关
 
