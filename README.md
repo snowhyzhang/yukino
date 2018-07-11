@@ -2,6 +2,11 @@
 
 集合了使用Python的机器学习相关的代码和数据。
 
+## analysis_basic
+Python机器学习基础
+
+- numpy_random.ipynb: numpy随机抽样
+
 ## captcha_recoginition
 基于卷积网络的验证码识别
 
