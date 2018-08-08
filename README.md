@@ -13,6 +13,7 @@ Python机器学习基础相关的小笔记
 深度学习相关的小代码片段
 
 - add_seq2seq: 基于Sequence-to-Sequence模型实现的字符串序列数字相加
+- lstm_time_step_model: 基于时间步的LSTM时序模型
 
 ## captcha_recoginition
 基于卷积网络的验证码识别
