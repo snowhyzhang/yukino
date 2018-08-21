@@ -9,8 +9,13 @@ Python机器学习基础相关的小笔记
 - pandas_vs_base_R: pandas与R基础方法比较
 - pandas_vs_dplyr: pandas与dplyr方法比较
 
+## machine_learning
+机器学习相关的代码片段
+
+- linear_regression_gd: 基于梯度下降的线性回归模型
+
 ## deep_learning
-深度学习相关的小代码片段
+深度学习相关的代码片段
 
 - add_seq2seq: 基于Sequence-to-Sequence模型实现的字符串序列数字相加
 - lstm_time_step_model: 基于时间步的LSTM时序模型
