@@ -13,6 +13,7 @@ Python机器学习基础相关的小笔记
 机器学习相关的代码片段
 
 - linear_regression_gd: 基于梯度下降的线性回归模型
+- logitstic_regression_gd: 基于梯度下降的逻辑回归模型
 
 ## deep_learning
 深度学习相关的代码片段
