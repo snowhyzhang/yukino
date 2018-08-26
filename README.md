@@ -8,6 +8,7 @@ Python机器学习基础相关的小笔记
 - numpy_random: numpy随机抽样
 - pandas_vs_base_R: pandas与R基础方法比较
 - pandas_vs_dplyr: pandas与dplyr方法比较
+- numpy_array_creation: numpy数组的构建
 
 ## machine_learning
 机器学习相关的代码片段
