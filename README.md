@@ -22,6 +22,7 @@ Python机器学习基础相关的小笔记
 - add_seq2seq: 基于Sequence-to-Sequence模型实现的字符串序列数字相加
 - lstm_time_step_model: 基于时间步的LSTM时序模型
 - encoder-decoder_seq2seq_model: 基于Eecode-Decoder框架的Seq2Seq模型
+- num_ops_image: 基于卷积模型的数字与操作符图像识别模型
 
 ## nlp
 自然语言处理相关
