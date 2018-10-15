@@ -9,6 +9,7 @@ Python机器学习基础相关的小笔记
 - pandas_vs_base_R: pandas与R基础方法比较
 - pandas_vs_dplyr: pandas与dplyr方法比较
 - numpy_array_creation: numpy数组的构建
+- pandas_in_practice: pandas在实践中一些常用的方法
 
 ## machine_learning
 机器学习相关的代码片段
