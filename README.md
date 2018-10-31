@@ -26,6 +26,7 @@ Python机器学习基础相关的小笔记
 - lstm_time_step_model: 基于时间步的LSTM时序模型
 - encoder-decoder_seq2seq_model: 基于Eecode-Decoder框架的Seq2Seq模型
 - num_ops_image: 基于卷积模型的数字与操作符图像识别模型
+- transfer_learning: 迁移学习 —— 基于xception模型的图像分类
 
 ## nlp
 自然语言处理相关
