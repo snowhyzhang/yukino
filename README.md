@@ -34,6 +34,7 @@ Python机器学习基础相关的小笔记
 - text_classification: 文本分类模型
 - text_classification_with_doc2vec: 基于doc2vec的文本分类模型
 - test_cluster_topic: 文档聚类与主题提取
+- test_classification_with_bert: 基于BERT的文本分类模型
 
 ## captcha_recoginition
 基于卷积网络的验证码识别
